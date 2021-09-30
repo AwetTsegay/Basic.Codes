@@ -1,2 +1,2 @@
-# Basic.Codes
+# Machine learning algorithms in python
 Python Code
